@@ -1,0 +1,14 @@
+ng new ngxs-tutorials
+
+npm i @ngxs/store
+
+npm install @ngxs/logger-plugin @ngxs/devtools-plugin --dev
+
+ng g c read
+
+ng generate component create
+
+npm i @rxjs
+
+
+git config  user.email 'sorryb@hotmail.com'
